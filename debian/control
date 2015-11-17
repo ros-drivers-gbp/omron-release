@@ -1,0 +1,12 @@
+Source: ros-indigo-omron-os32c-driver
+Section: misc
+Priority: extra
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, libgtest-dev, ros-indigo-catkin, ros-indigo-odva-ethernetip, ros-indigo-roscpp, ros-indigo-roslaunch, ros-indigo-sensor-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-omron-os32c-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-indigo-odva-ethernetip, ros-indigo-roscpp, ros-indigo-sensor-msgs
+Description: Interface driver for Omron OS32C Lidar via Ethernet/IP (Industrial Protocol)
