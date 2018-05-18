@@ -1,3 +1,26 @@
+## omron_os32c_driver (kinetic) - 0.1.2-0
+
+The packages in the `omron_os32c_driver` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release omron_os32c_driver --track kinetic --rosdistro kinetic` on `Fri, 18 May 2018 09:43:06 -0000`
+
+The `omron_os32c_driver` package was released.
+
+Version of package(s) in repository `omron_os32c_driver`:
+
+- upstream repository: https://github.com/ros-drivers/omron.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.6`
+- vcstools version: `0.1.40`
+
+
 ## omron (indigo) - 0.1.1-0
 
 The packages in the `omron` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo omron` on `Tue, 17 Nov 2015 20:00:29 -0000`
