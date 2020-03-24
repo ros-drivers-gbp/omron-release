@@ -1,0 +1,12 @@
+Source: ros-melodic-omron-os32c-driver
+Section: misc
+Priority: extra
+Maintainer: Rein Appeldoorn <rein@eurogroep.com>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, ros-melodic-catkin, ros-melodic-diagnostic-updater, ros-melodic-odva-ethernetip, ros-melodic-rosconsole-bridge, ros-melodic-roscpp, ros-melodic-roslaunch, ros-melodic-rosunit, ros-melodic-sensor-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-omron-os32c-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-melodic-diagnostic-updater, ros-melodic-odva-ethernetip, ros-melodic-rosconsole-bridge, ros-melodic-roscpp, ros-melodic-sensor-msgs
+Description: Interface driver for Omron OS32C Lidar via Ethernet/IP (Industrial Protocol)
