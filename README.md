@@ -1,3 +1,26 @@
+## omron_os32c_driver (noetic) - 1.1.0-1
+
+The packages in the `omron_os32c_driver` repository were released into the `noetic` distro by running `/usr/bin/bloom-release omron_os32c_driver -r noetic` on `Tue, 01 Dec 2020 17:01:22 -0000`
+
+The `omron_os32c_driver` package was released.
+
+Version of package(s) in repository `omron_os32c_driver`:
+
+- upstream repository: https://github.com/ros-drivers/omron.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## omron_os32c_driver (melodic) - 1.1.0-0
 
 The packages in the `omron_os32c_driver` repository were released into the `melodic` distro by running `/home/rein/.local/bin/bloom-release omron_os32c_driver -r melodic` on `Tue, 24 Mar 2020 09:01:46 -0000`
